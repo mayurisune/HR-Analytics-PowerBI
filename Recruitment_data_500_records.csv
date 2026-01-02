@@ -1,0 +1,501 @@
+Candidate_ID,Candidate_Name,Gender,Age,Source,Position,Department,Recruiter,Application_Date,Interview_Date,Offer_Date,Joining_Date,Status,Salary_Offered
+C001,Rohit Kale,Male,22,Indeed,Software Engineer,IT,Amit,2024-02-05,2024-02-15,2024-02-22,2024-03-21,Joined,391161.0
+C002,Pratik Jadhav,Male,22,Naukri,Software Engineer,IT,Amit,2024-05-09,2024-05-18,2024-05-22,2024-06-21,Joined,1050800.0
+C003,Snehal Patil,Female,25,Referral,Manager,Management,Rohit,2024-01-02,2024-01-08,2024-01-13,,Offer Declined,591369.0
+C004,Akash Kulkarni,Male,34,Indeed,Data Analyst,Analytics,Sneha,2024-04-07,2024-04-12,2024-04-17,,Offer Accepted,933052.0
+C005,Saurabh More,Male,33,Referral,Manager,Management,Sneha,2024-04-06,2024-04-11,2024-04-18,,Offer Declined,679201.0
+C006,Shweta Kulkarni,Male,33,Naukri,Data Analyst,Analytics,Amit,2024-03-15,2024-03-20,,,Rejected,
+C007,Aarti Kulkarni,Male,28,Indeed,Sales Executive,Sales,Rohit,2024-02-11,2024-02-18,2024-02-23,,Offer Accepted,1035911.0
+C008,Vikas Chavan,Male,31,LinkedIn,Manager,Management,Amit,2024-02-11,2024-02-19,2024-02-26,,Offer Accepted,530283.0
+C009,Rohit Kale,Female,35,Naukri,Software Engineer,IT,Sneha,2024-03-21,2024-03-29,2024-04-02,2024-04-22,Joined,894731.0
+C010,Neha Joshi,Female,28,Referral,Software Engineer,IT,Rohit,2024-02-05,2024-02-11,,,Rejected,
+C011,Amol Pawar,Female,33,Referral,Manager,Management,Pallavi,2024-04-02,2024-04-08,,,Rejected,
+C012,Akash Kulkarni,Female,23,Naukri,Data Analyst,Analytics,Amit,2024-06-09,2024-06-15,,,Rejected,
+C013,Pratik Jadhav,Male,28,Referral,Manager,Management,Pallavi,2024-05-15,2024-05-22,,,Rejected,
+C014,Aarti Kulkarni,Male,32,Naukri,Manager,Management,Rohit,2024-06-13,2024-06-20,2024-06-26,2024-07-20,Joined,465840.0
+C015,Rahul Patil,Female,30,LinkedIn,Manager,Management,Sneha,2024-06-09,2024-06-16,,,Rejected,
+C016,Amol Pawar,Male,24,Indeed,Software Engineer,IT,Sneha,2024-06-02,2024-06-09,2024-06-12,,Offer Accepted,680612.0
+C017,Vikas Chavan,Female,25,Naukri,Software Engineer,IT,Sneha,2024-01-22,2024-02-01,2024-02-04,,Offer Accepted,1097549.0
+C018,Amol Pawar,Male,24,Referral,Manager,Management,Amit,2024-03-08,2024-03-17,,,Rejected,
+C019,Pratik Jadhav,Male,30,LinkedIn,HR Executive,HR,Pallavi,2024-06-20,2024-06-30,2024-07-07,,Offer Accepted,773417.0
+C020,Pooja Deshmukh,Male,25,Naukri,HR Executive,HR,Sneha,2024-05-30,2024-06-08,2024-06-12,2024-06-24,Joined,307540.0
+C021,Snehal Patil,Male,25,Naukri,Data Analyst,Analytics,Rohit,2024-01-19,2024-01-28,2024-02-03,2024-03-01,Joined,524643.0
+C022,Akash Kulkarni,Female,25,Referral,Sales Executive,Sales,Amit,2024-01-25,2024-01-30,2024-02-04,,Offer Declined,744154.0
+C023,Pratik Jadhav,Female,35,Naukri,Data Analyst,Analytics,Sneha,2024-04-13,2024-04-23,2024-04-26,2024-05-12,Joined,560735.0
+C024,Neha Joshi,Female,24,Referral,Software Engineer,IT,Rohit,2024-04-28,2024-05-04,,,Rejected,
+C025,Pooja Deshmukh,Female,34,Naukri,Data Analyst,Analytics,Sneha,2024-01-24,2024-01-30,2024-02-05,2024-02-21,Joined,804740.0
+C026,Aarti Kulkarni,Female,22,LinkedIn,Sales Executive,Sales,Sneha,2024-04-09,2024-04-16,,,Rejected,
+C027,Kunal Desai,Female,26,Referral,Manager,Management,Pallavi,2024-02-09,2024-02-15,2024-02-18,2024-03-16,Joined,907314.0
+C028,Rahul Patil,Female,22,Naukri,Manager,Management,Pallavi,2024-05-08,2024-05-17,2024-05-24,2024-06-08,Joined,384002.0
+C029,Pooja Deshmukh,Male,32,LinkedIn,Sales Executive,Sales,Sneha,2024-05-25,2024-05-31,2024-06-03,,Offer Declined,949468.0
+C030,Pooja Deshmukh,Female,32,Indeed,HR Executive,HR,Amit,2024-06-20,2024-06-30,2024-07-05,2024-07-19,Joined,715011.0
+C031,Rohit Kale,Female,29,Indeed,Data Analyst,Analytics,Sneha,2024-04-27,2024-05-06,,,Rejected,
+C032,Pooja Deshmukh,Male,30,LinkedIn,Manager,Management,Rohit,2024-02-03,2024-02-10,,,Rejected,
+C033,Vikas Chavan,Male,27,Indeed,Software Engineer,IT,Pallavi,2024-05-19,2024-05-29,2024-06-05,2024-07-02,Joined,308203.0
+C034,Saurabh More,Male,24,Indeed,Data Analyst,Analytics,Sneha,2024-05-21,2024-05-27,2024-06-03,2024-06-23,Joined,520861.0
+C035,Neha Joshi,Female,30,Referral,HR Executive,HR,Sneha,2024-01-24,2024-02-03,2024-02-08,,Offer Accepted,346228.0
+C036,Rahul Patil,Female,34,LinkedIn,HR Executive,HR,Amit,2024-04-23,2024-05-02,,,Rejected,
+C037,Amol Pawar,Male,23,Naukri,Software Engineer,IT,Sneha,2024-04-04,2024-04-13,2024-04-19,,Offer Declined,433636.0
+C038,Rahul Patil,Female,27,Naukri,HR Executive,HR,Amit,2024-06-23,2024-06-29,2024-07-04,,Offer Declined,1118011.0
+C039,Amol Pawar,Female,31,LinkedIn,Software Engineer,IT,Amit,2024-02-15,2024-02-23,2024-02-28,2024-03-22,Joined,1120391.0
+C040,Kunal Desai,Male,26,LinkedIn,Data Analyst,Analytics,Pallavi,2024-01-10,2024-01-18,2024-01-24,2024-02-12,Joined,666643.0
+C041,Aarti Kulkarni,Male,25,Naukri,Software Engineer,IT,Pallavi,2024-03-25,2024-04-01,,,Rejected,
+C042,Kunal Desai,Female,27,Referral,Manager,Management,Rohit,2024-01-08,2024-01-13,,,Rejected,
+C043,Saurabh More,Male,31,Indeed,Data Analyst,Analytics,Sneha,2024-06-01,2024-06-09,2024-06-14,2024-07-13,Joined,757592.0
+C044,Amol Pawar,Male,28,LinkedIn,HR Executive,HR,Sneha,2024-04-21,2024-04-26,2024-05-03,,Offer Declined,1020221.0
+C045,Snehal Patil,Male,27,Referral,Data Analyst,Analytics,Rohit,2024-06-08,2024-06-15,2024-06-18,,Offer Declined,1054717.0
+C046,Vikas Chavan,Female,30,Indeed,Sales Executive,Sales,Rohit,2024-04-13,2024-04-23,2024-04-27,2024-05-20,Joined,501158.0
+C047,Rohit Kale,Female,32,LinkedIn,Manager,Management,Rohit,2024-04-13,2024-04-22,,,Rejected,
+C048,Saurabh More,Female,25,Referral,Manager,Management,Rohit,2024-04-29,2024-05-07,2024-05-11,,Offer Accepted,836004.0
+C049,Sayali Patil,Male,32,Naukri,HR Executive,HR,Rohit,2024-01-24,2024-01-30,2024-02-03,,Offer Declined,1145742.0
+C050,Neha Joshi,Male,22,Naukri,Software Engineer,IT,Pallavi,2024-06-05,2024-06-10,2024-06-17,,Offer Accepted,503880.0
+C051,Snehal Patil,Female,29,Referral,Software Engineer,IT,Amit,2024-06-16,2024-06-26,2024-06-29,2024-07-22,Joined,1116232.0
+C052,Neha Joshi,Male,34,Referral,Data Analyst,Analytics,Amit,2024-02-01,2024-02-09,2024-02-15,2024-03-12,Joined,1000005.0
+C053,Amol Pawar,Female,34,Referral,Manager,Management,Pallavi,2024-05-20,2024-05-28,,,Rejected,
+C054,Snehal Patil,Female,29,Indeed,Software Engineer,IT,Rohit,2024-05-13,2024-05-21,2024-05-26,,Offer Declined,761239.0
+C055,Pooja Deshmukh,Female,25,Indeed,HR Executive,HR,Rohit,2024-05-18,2024-05-23,2024-05-27,2024-06-10,Joined,701641.0
+C056,Snehal Patil,Male,23,Referral,Sales Executive,Sales,Rohit,2024-05-18,2024-05-26,2024-05-30,,Offer Accepted,1173349.0
+C057,Pratik Jadhav,Female,34,Naukri,Manager,Management,Pallavi,2024-05-02,2024-05-07,,,Rejected,
+C058,Saurabh More,Female,35,Referral,Manager,Management,Amit,2024-05-04,2024-05-10,2024-05-16,2024-06-07,Joined,330434.0
+C059,Komal Shinde,Female,33,LinkedIn,Sales Executive,Sales,Amit,2024-06-08,2024-06-17,2024-06-23,2024-07-21,Joined,920644.0
+C060,Rohit Kale,Male,23,Referral,Software Engineer,IT,Pallavi,2024-02-16,2024-02-21,2024-02-26,2024-03-21,Joined,521941.0
+C061,Komal Shinde,Female,34,Referral,HR Executive,HR,Pallavi,2024-03-05,2024-03-10,2024-03-17,,Offer Accepted,354615.0
+C062,Komal Shinde,Male,32,Naukri,Data Analyst,Analytics,Sneha,2024-03-04,2024-03-10,,,Rejected,
+C063,Shweta Kulkarni,Male,25,LinkedIn,Sales Executive,Sales,Sneha,2024-05-24,2024-05-30,2024-06-04,,Offer Accepted,1104150.0
+C064,Komal Shinde,Male,31,Naukri,Software Engineer,IT,Rohit,2024-01-28,2024-02-06,2024-02-11,2024-03-04,Joined,903766.0
+C065,Pratik Jadhav,Male,23,LinkedIn,Data Analyst,Analytics,Rohit,2024-06-24,2024-07-03,,,Rejected,
+C066,Kunal Desai,Male,27,Referral,HR Executive,HR,Sneha,2024-05-09,2024-05-19,2024-05-25,2024-06-19,Joined,1162276.0
+C067,Pooja Deshmukh,Female,27,Referral,Software Engineer,IT,Pallavi,2024-02-15,2024-02-25,2024-03-01,,Offer Declined,945830.0
+C068,Kunal Desai,Female,29,Referral,Manager,Management,Rohit,2024-03-23,2024-03-29,,,Rejected,
+C069,Pooja Deshmukh,Female,29,LinkedIn,Sales Executive,Sales,Pallavi,2024-03-27,2024-04-01,2024-04-06,,Offer Accepted,490672.0
+C070,Sayali Patil,Male,27,Indeed,HR Executive,HR,Rohit,2024-06-01,2024-06-11,,,Rejected,
+C071,Amol Pawar,Male,30,LinkedIn,Data Analyst,Analytics,Amit,2024-04-14,2024-04-22,2024-04-26,,Offer Declined,1024156.0
+C072,Sayali Patil,Female,29,Naukri,Data Analyst,Analytics,Rohit,2024-02-26,2024-03-05,2024-03-10,,Offer Declined,996212.0
+C073,Shweta Kulkarni,Female,29,Indeed,Sales Executive,Sales,Rohit,2024-03-31,2024-04-10,2024-04-15,,Offer Accepted,563615.0
+C074,Neha Joshi,Male,33,LinkedIn,HR Executive,HR,Sneha,2024-05-17,2024-05-27,2024-05-31,2024-06-25,Joined,1074483.0
+C075,Saurabh More,Female,23,LinkedIn,HR Executive,HR,Amit,2024-04-02,2024-04-08,2024-04-15,2024-05-03,Joined,432731.0
+C076,Rahul Patil,Male,30,Indeed,Software Engineer,IT,Pallavi,2024-01-27,2024-02-01,2024-02-07,,Offer Declined,801968.0
+C077,Sayali Patil,Female,24,Naukri,HR Executive,HR,Pallavi,2024-01-30,2024-02-04,2024-02-07,,Offer Accepted,905050.0
+C078,Rohit Kale,Male,24,LinkedIn,Manager,Management,Rohit,2024-01-22,2024-01-28,2024-02-03,2024-03-03,Joined,935770.0
+C079,Kunal Desai,Male,34,Referral,Sales Executive,Sales,Pallavi,2024-03-17,2024-03-26,,,Rejected,
+C080,Saurabh More,Male,31,Naukri,Software Engineer,IT,Amit,2024-03-08,2024-03-18,2024-03-22,2024-04-18,Joined,482256.0
+C081,Pooja Deshmukh,Male,22,Referral,Sales Executive,Sales,Pallavi,2024-03-15,2024-03-20,2024-03-25,2024-04-18,Joined,1037135.0
+C082,Pooja Deshmukh,Male,26,LinkedIn,Sales Executive,Sales,Sneha,2024-05-19,2024-05-25,2024-05-30,,Offer Declined,1166785.0
+C083,Akash Kulkarni,Male,22,LinkedIn,HR Executive,HR,Rohit,2024-04-22,2024-04-27,2024-05-02,,Offer Accepted,1033723.0
+C084,Pratik Jadhav,Female,30,Referral,Sales Executive,Sales,Sneha,2024-06-02,2024-06-07,,,Rejected,
+C085,Snehal Patil,Female,31,Indeed,Data Analyst,Analytics,Sneha,2024-02-28,2024-03-09,,,Rejected,
+C086,Shweta Kulkarni,Male,34,Indeed,Manager,Management,Sneha,2024-02-14,2024-02-22,2024-02-28,,Offer Declined,591668.0
+C087,Akash Kulkarni,Female,32,Referral,Data Analyst,Analytics,Pallavi,2024-03-30,2024-04-07,2024-04-10,2024-04-25,Joined,1199398.0
+C088,Komal Shinde,Female,33,Referral,HR Executive,HR,Pallavi,2024-05-20,2024-05-25,2024-05-30,,Offer Accepted,564659.0
+C089,Komal Shinde,Male,34,Referral,Manager,Management,Sneha,2024-06-17,2024-06-26,2024-06-29,,Offer Accepted,496694.0
+C090,Amol Pawar,Female,31,Referral,Sales Executive,Sales,Sneha,2024-02-22,2024-02-29,2024-03-05,,Offer Declined,759398.0
+C091,Vikas Chavan,Female,23,Naukri,Manager,Management,Amit,2024-02-10,2024-02-17,2024-02-24,,Offer Declined,727809.0
+C092,Pooja Deshmukh,Male,35,Naukri,Sales Executive,Sales,Sneha,2024-06-14,2024-06-20,2024-06-25,,Offer Accepted,833590.0
+C093,Snehal Patil,Female,28,Referral,Sales Executive,Sales,Amit,2024-04-26,2024-05-05,2024-05-09,2024-06-04,Joined,928492.0
+C094,Snehal Patil,Male,35,Naukri,HR Executive,HR,Pallavi,2024-03-28,2024-04-06,2024-04-09,2024-04-28,Joined,596578.0
+C095,Aarti Kulkarni,Female,35,LinkedIn,Sales Executive,Sales,Pallavi,2024-03-29,2024-04-05,2024-04-12,,Offer Declined,695533.0
+C096,Sayali Patil,Female,35,LinkedIn,Software Engineer,IT,Pallavi,2024-02-29,2024-03-08,2024-03-14,2024-04-05,Joined,1039485.0
+C097,Pratik Jadhav,Male,29,Naukri,Software Engineer,IT,Rohit,2024-01-26,2024-02-03,2024-02-09,2024-02-23,Joined,316093.0
+C098,Pratik Jadhav,Male,23,Referral,HR Executive,HR,Rohit,2024-06-08,2024-06-18,2024-06-21,,Offer Accepted,1193140.0
+C099,Komal Shinde,Female,27,Referral,Manager,Management,Sneha,2024-06-07,2024-06-12,2024-06-17,2024-06-29,Joined,538536.0
+C100,Pratik Jadhav,Male,34,Naukri,Sales Executive,Sales,Amit,2024-06-26,2024-07-03,,,Rejected,
+C101,Rahul Patil,Female,34,Naukri,HR Executive,HR,Rohit,2024-04-05,2024-04-13,2024-04-20,2024-05-18,Joined,732067.0
+C102,Rohit Kale,Male,24,LinkedIn,Data Analyst,Analytics,Pallavi,2024-06-07,2024-06-17,2024-06-24,2024-07-11,Joined,450069.0
+C103,Sayali Patil,Female,29,Indeed,Data Analyst,Analytics,Pallavi,2024-03-14,2024-03-24,2024-03-27,,Offer Declined,763187.0
+C104,Komal Shinde,Female,32,Referral,HR Executive,HR,Pallavi,2024-03-18,2024-03-24,,,Rejected,
+C105,Aarti Kulkarni,Female,23,LinkedIn,Sales Executive,Sales,Rohit,2024-05-27,2024-06-03,,,Rejected,
+C106,Saurabh More,Male,35,Referral,HR Executive,HR,Sneha,2024-05-24,2024-06-03,,,Rejected,
+C107,Rahul Patil,Female,35,Indeed,Software Engineer,IT,Rohit,2024-02-26,2024-03-07,2024-03-12,2024-03-26,Joined,1010687.0
+C108,Rohit Kale,Male,32,Naukri,HR Executive,HR,Pallavi,2024-01-09,2024-01-18,2024-01-22,,Offer Accepted,394511.0
+C109,Vikas Chavan,Female,27,Referral,Software Engineer,IT,Amit,2024-02-03,2024-02-12,,,Rejected,
+C110,Komal Shinde,Female,35,LinkedIn,HR Executive,HR,Pallavi,2024-03-16,2024-03-26,,,Rejected,
+C111,Kunal Desai,Male,29,Naukri,Software Engineer,IT,Amit,2024-06-22,2024-07-02,2024-07-08,,Offer Declined,1186827.0
+C112,Kunal Desai,Female,23,Referral,Data Analyst,Analytics,Rohit,2024-05-17,2024-05-22,2024-05-27,,Offer Accepted,912955.0
+C113,Pratik Jadhav,Female,23,LinkedIn,Sales Executive,Sales,Sneha,2024-06-07,2024-06-16,2024-06-23,2024-07-23,Joined,532120.0
+C114,Pooja Deshmukh,Female,33,Indeed,Sales Executive,Sales,Sneha,2024-02-05,2024-02-10,,,Rejected,
+C115,Saurabh More,Female,23,Naukri,Software Engineer,IT,Amit,2024-04-09,2024-04-17,2024-04-24,,Offer Accepted,739486.0
+C116,Shweta Kulkarni,Male,28,Naukri,Sales Executive,Sales,Pallavi,2024-03-12,2024-03-17,2024-03-21,,Offer Declined,764920.0
+C117,Sayali Patil,Male,35,Indeed,Data Analyst,Analytics,Rohit,2024-05-19,2024-05-29,2024-06-04,,Offer Accepted,589282.0
+C118,Neha Joshi,Male,35,Referral,Data Analyst,Analytics,Amit,2024-06-13,2024-06-23,2024-06-26,,Offer Declined,353035.0
+C119,Kunal Desai,Female,25,LinkedIn,Manager,Management,Amit,2024-01-18,2024-01-27,2024-01-31,2024-02-17,Joined,1152547.0
+C120,Komal Shinde,Male,34,Naukri,HR Executive,HR,Amit,2024-02-03,2024-02-12,2024-02-16,2024-02-26,Joined,415266.0
+C121,Akash Kulkarni,Male,27,LinkedIn,Manager,Management,Rohit,2024-01-05,2024-01-11,2024-01-15,2024-02-07,Joined,1077747.0
+C122,Amol Pawar,Male,33,Naukri,Sales Executive,Sales,Pallavi,2024-04-02,2024-04-11,2024-04-17,,Offer Declined,828313.0
+C123,Neha Joshi,Male,33,Indeed,Sales Executive,Sales,Sneha,2024-01-16,2024-01-24,,,Rejected,
+C124,Pratik Jadhav,Male,29,Referral,Data Analyst,Analytics,Sneha,2024-03-23,2024-04-01,2024-04-05,2024-05-04,Joined,588375.0
+C125,Rohit Kale,Female,28,Indeed,Sales Executive,Sales,Pallavi,2024-01-26,2024-02-05,2024-02-12,2024-02-28,Joined,1055855.0
+C126,Pratik Jadhav,Female,25,Referral,HR Executive,HR,Pallavi,2024-04-12,2024-04-20,,,Rejected,
+C127,Komal Shinde,Female,27,Indeed,HR Executive,HR,Amit,2024-06-24,2024-07-02,2024-07-05,2024-07-28,Joined,397758.0
+C128,Pooja Deshmukh,Female,34,LinkedIn,Manager,Management,Sneha,2024-05-30,2024-06-08,2024-06-11,,Offer Declined,730764.0
+C129,Komal Shinde,Female,35,Naukri,HR Executive,HR,Rohit,2024-03-31,2024-04-05,2024-04-09,,Offer Declined,462246.0
+C130,Rohit Kale,Female,25,Naukri,HR Executive,HR,Rohit,2024-01-30,2024-02-06,2024-02-12,,Offer Declined,1186209.0
+C131,Amol Pawar,Male,31,Indeed,Data Analyst,Analytics,Amit,2024-03-10,2024-03-20,,,Rejected,
+C132,Vikas Chavan,Female,27,Naukri,Software Engineer,IT,Amit,2024-05-24,2024-06-03,2024-06-07,,Offer Accepted,1076962.0
+C133,Rohit Kale,Male,23,LinkedIn,Sales Executive,Sales,Pallavi,2024-04-26,2024-05-03,2024-05-08,2024-05-28,Joined,1056648.0
+C134,Kunal Desai,Male,22,LinkedIn,Software Engineer,IT,Sneha,2024-06-21,2024-06-26,2024-07-02,2024-07-31,Joined,809253.0
+C135,Sayali Patil,Female,26,LinkedIn,Manager,Management,Sneha,2024-03-29,2024-04-06,2024-04-13,2024-05-09,Joined,810271.0
+C136,Rohit Kale,Female,22,LinkedIn,Sales Executive,Sales,Sneha,2024-01-02,2024-01-08,2024-01-12,2024-01-26,Joined,1104624.0
+C137,Kunal Desai,Female,26,Indeed,Data Analyst,Analytics,Sneha,2024-05-07,2024-05-17,2024-05-21,,Offer Accepted,698676.0
+C138,Amol Pawar,Male,30,Indeed,Data Analyst,Analytics,Pallavi,2024-01-11,2024-01-19,2024-01-22,2024-02-19,Joined,628267.0
+C139,Pratik Jadhav,Female,33,Referral,HR Executive,HR,Sneha,2024-04-13,2024-04-18,,,Rejected,
+C140,Akash Kulkarni,Female,35,Indeed,Data Analyst,Analytics,Pallavi,2024-01-28,2024-02-03,2024-02-09,,Offer Accepted,849414.0
+C141,Pooja Deshmukh,Female,35,Indeed,HR Executive,HR,Amit,2024-03-26,2024-04-01,2024-04-04,2024-04-30,Joined,856379.0
+C142,Neha Joshi,Female,27,LinkedIn,Software Engineer,IT,Sneha,2024-02-07,2024-02-14,2024-02-21,2024-03-22,Joined,460295.0
+C143,Pooja Deshmukh,Male,34,Referral,Sales Executive,Sales,Pallavi,2024-06-23,2024-07-02,2024-07-09,,Offer Declined,638908.0
+C144,Aarti Kulkarni,Female,24,Referral,Data Analyst,Analytics,Pallavi,2024-04-23,2024-05-03,2024-05-08,2024-05-19,Joined,920148.0
+C145,Komal Shinde,Male,26,Referral,Sales Executive,Sales,Sneha,2024-01-15,2024-01-22,,,Rejected,
+C146,Pooja Deshmukh,Male,31,Referral,Sales Executive,Sales,Sneha,2024-04-25,2024-05-04,2024-05-09,,Offer Declined,934394.0
+C147,Sayali Patil,Male,22,Referral,Data Analyst,Analytics,Rohit,2024-01-22,2024-01-31,2024-02-03,,Offer Declined,559778.0
+C148,Snehal Patil,Female,29,LinkedIn,HR Executive,HR,Rohit,2024-03-13,2024-03-21,2024-03-26,,Offer Accepted,1011875.0
+C149,Shweta Kulkarni,Male,34,Indeed,Data Analyst,Analytics,Rohit,2024-01-25,2024-02-03,2024-02-08,,Offer Declined,564236.0
+C150,Snehal Patil,Male,27,Naukri,Manager,Management,Amit,2024-03-30,2024-04-06,,,Rejected,
+C151,Snehal Patil,Female,24,Naukri,HR Executive,HR,Pallavi,2024-06-13,2024-06-20,,,Rejected,
+C152,Rohit Kale,Male,32,Referral,Manager,Management,Rohit,2024-01-05,2024-01-12,2024-01-16,2024-02-10,Joined,658332.0
+C153,Neha Joshi,Male,24,LinkedIn,Data Analyst,Analytics,Rohit,2024-01-26,2024-02-04,,,Rejected,
+C154,Aarti Kulkarni,Male,32,Indeed,Manager,Management,Amit,2024-06-01,2024-06-09,2024-06-13,2024-07-12,Joined,1171728.0
+C155,Kunal Desai,Male,33,Referral,Data Analyst,Analytics,Pallavi,2024-04-03,2024-04-13,,,Rejected,
+C156,Sayali Patil,Female,34,Referral,Software Engineer,IT,Amit,2024-03-20,2024-03-28,,,Rejected,
+C157,Neha Joshi,Female,32,Referral,Sales Executive,Sales,Rohit,2024-04-07,2024-04-16,2024-04-20,,Offer Declined,1156572.0
+C158,Neha Joshi,Male,35,Indeed,Data Analyst,Analytics,Pallavi,2024-04-05,2024-04-14,,,Rejected,
+C159,Snehal Patil,Male,26,Naukri,Software Engineer,IT,Rohit,2024-04-25,2024-05-04,2024-05-10,2024-05-27,Joined,396168.0
+C160,Aarti Kulkarni,Female,27,Naukri,Sales Executive,Sales,Sneha,2024-04-11,2024-04-20,2024-04-26,,Offer Accepted,385569.0
+C161,Komal Shinde,Male,22,Indeed,Data Analyst,Analytics,Rohit,2024-02-07,2024-02-13,2024-02-19,2024-03-04,Joined,1029884.0
+C162,Kunal Desai,Female,29,Naukri,Data Analyst,Analytics,Sneha,2024-03-06,2024-03-12,,,Rejected,
+C163,Amol Pawar,Female,23,Indeed,Software Engineer,IT,Rohit,2024-02-01,2024-02-06,2024-02-13,2024-02-25,Joined,779318.0
+C164,Pooja Deshmukh,Female,31,Naukri,Manager,Management,Amit,2024-02-06,2024-02-13,2024-02-20,,Offer Accepted,669954.0
+C165,Neha Joshi,Female,24,Naukri,Manager,Management,Rohit,2024-01-18,2024-01-27,2024-02-03,,Offer Declined,881070.0
+C166,Rahul Patil,Female,35,Referral,Data Analyst,Analytics,Pallavi,2024-04-05,2024-04-12,,,Rejected,
+C167,Komal Shinde,Male,27,LinkedIn,Data Analyst,Analytics,Rohit,2024-02-04,2024-02-09,2024-02-14,,Offer Accepted,1153025.0
+C168,Rohit Kale,Male,35,Referral,Sales Executive,Sales,Amit,2024-02-04,2024-02-09,,,Rejected,
+C169,Sayali Patil,Male,26,LinkedIn,Data Analyst,Analytics,Amit,2024-01-11,2024-01-18,,,Rejected,
+C170,Amol Pawar,Female,35,Referral,HR Executive,HR,Sneha,2024-06-14,2024-06-20,2024-06-23,2024-07-13,Joined,987584.0
+C171,Saurabh More,Male,34,Indeed,Sales Executive,Sales,Pallavi,2024-04-22,2024-04-30,2024-05-04,2024-05-29,Joined,820306.0
+C172,Komal Shinde,Female,34,Naukri,Sales Executive,Sales,Sneha,2024-04-20,2024-04-29,,,Rejected,
+C173,Akash Kulkarni,Female,27,Naukri,Data Analyst,Analytics,Rohit,2024-06-18,2024-06-25,2024-07-02,2024-07-25,Joined,1052524.0
+C174,Akash Kulkarni,Female,27,Referral,Data Analyst,Analytics,Rohit,2024-06-06,2024-06-14,2024-06-17,2024-07-17,Joined,378686.0
+C175,Pratik Jadhav,Female,30,LinkedIn,Data Analyst,Analytics,Amit,2024-06-04,2024-06-14,,,Rejected,
+C176,Rahul Patil,Male,23,LinkedIn,HR Executive,HR,Rohit,2024-04-08,2024-04-17,2024-04-21,2024-05-15,Joined,1012048.0
+C177,Komal Shinde,Female,29,Naukri,Manager,Management,Amit,2024-05-15,2024-05-22,2024-05-27,,Offer Accepted,561736.0
+C178,Pooja Deshmukh,Male,33,LinkedIn,Sales Executive,Sales,Pallavi,2024-05-23,2024-05-28,2024-06-02,2024-06-26,Joined,1038237.0
+C179,Neha Joshi,Female,33,Referral,Software Engineer,IT,Sneha,2024-02-04,2024-02-09,2024-02-15,,Offer Accepted,392055.0
+C180,Kunal Desai,Female,32,Indeed,Data Analyst,Analytics,Rohit,2024-03-17,2024-03-23,,,Rejected,
+C181,Vikas Chavan,Male,34,Indeed,Manager,Management,Amit,2024-02-01,2024-02-07,,,Rejected,
+C182,Neha Joshi,Female,22,Indeed,Manager,Management,Rohit,2024-04-29,2024-05-08,2024-05-11,2024-05-30,Joined,368941.0
+C183,Pratik Jadhav,Female,30,Referral,Sales Executive,Sales,Sneha,2024-02-02,2024-02-09,2024-02-15,,Offer Declined,788461.0
+C184,Rohit Kale,Female,24,LinkedIn,Software Engineer,IT,Pallavi,2024-05-08,2024-05-13,,,Rejected,
+C185,Amol Pawar,Male,26,LinkedIn,Software Engineer,IT,Rohit,2024-02-27,2024-03-05,,,Rejected,
+C186,Amol Pawar,Female,35,Naukri,HR Executive,HR,Amit,2024-06-11,2024-06-20,2024-06-25,2024-07-22,Joined,944274.0
+C187,Pooja Deshmukh,Male,31,LinkedIn,Software Engineer,IT,Rohit,2024-05-24,2024-05-29,,,Rejected,
+C188,Rahul Patil,Male,22,Indeed,Software Engineer,IT,Pallavi,2024-06-07,2024-06-17,2024-06-24,2024-07-24,Joined,603742.0
+C189,Saurabh More,Female,25,Referral,HR Executive,HR,Pallavi,2024-01-19,2024-01-29,2024-02-04,2024-02-29,Joined,735810.0
+C190,Sayali Patil,Male,27,LinkedIn,HR Executive,HR,Rohit,2024-03-29,2024-04-06,2024-04-11,2024-05-08,Joined,839995.0
+C191,Pooja Deshmukh,Female,25,Referral,Data Analyst,Analytics,Rohit,2024-04-25,2024-05-01,2024-05-04,2024-05-26,Joined,604309.0
+C192,Aarti Kulkarni,Female,25,LinkedIn,HR Executive,HR,Rohit,2024-02-18,2024-02-24,2024-03-02,,Offer Accepted,789491.0
+C193,Sayali Patil,Female,29,Naukri,Data Analyst,Analytics,Pallavi,2024-05-09,2024-05-17,,,Rejected,
+C194,Neha Joshi,Female,22,Naukri,HR Executive,HR,Pallavi,2024-06-01,2024-06-11,2024-06-16,,Offer Declined,862761.0
+C195,Rahul Patil,Male,28,LinkedIn,HR Executive,HR,Rohit,2024-04-13,2024-04-20,2024-04-23,2024-05-20,Joined,897983.0
+C196,Neha Joshi,Female,30,Indeed,Data Analyst,Analytics,Pallavi,2024-05-09,2024-05-17,,,Rejected,
+C197,Saurabh More,Male,24,Naukri,Sales Executive,Sales,Rohit,2024-03-27,2024-04-05,,,Rejected,
+C198,Kunal Desai,Male,25,Referral,Manager,Management,Sneha,2024-01-12,2024-01-17,2024-01-22,2024-02-16,Joined,1143019.0
+C199,Amol Pawar,Female,24,LinkedIn,HR Executive,HR,Rohit,2024-02-11,2024-02-19,,,Rejected,
+C200,Snehal Patil,Female,31,Indeed,Manager,Management,Pallavi,2024-05-24,2024-05-31,2024-06-03,,Offer Accepted,686251.0
+C201,Komal Shinde,Male,28,Indeed,Data Analyst,Analytics,Pallavi,2024-03-08,2024-03-18,,,Rejected,
+C202,Kunal Desai,Male,33,Naukri,Manager,Management,Pallavi,2024-02-13,2024-02-22,2024-02-29,,Offer Declined,1112233.0
+C203,Aarti Kulkarni,Female,24,LinkedIn,Data Analyst,Analytics,Sneha,2024-02-18,2024-02-23,2024-02-29,,Offer Accepted,458787.0
+C204,Pratik Jadhav,Male,28,Referral,Data Analyst,Analytics,Amit,2024-05-12,2024-05-18,2024-05-24,,Offer Declined,851002.0
+C205,Pratik Jadhav,Female,24,Referral,Manager,Management,Rohit,2024-05-19,2024-05-26,2024-05-31,,Offer Declined,939711.0
+C206,Sayali Patil,Male,25,Indeed,Manager,Management,Rohit,2024-02-27,2024-03-05,,,Rejected,
+C207,Snehal Patil,Male,33,Referral,HR Executive,HR,Pallavi,2024-03-30,2024-04-08,,,Rejected,
+C208,Kunal Desai,Female,26,Naukri,Manager,Management,Pallavi,2024-04-11,2024-04-18,,,Rejected,
+C209,Kunal Desai,Male,26,Naukri,HR Executive,HR,Sneha,2024-03-29,2024-04-06,2024-04-12,,Offer Declined,524381.0
+C210,Neha Joshi,Female,30,Indeed,Software Engineer,IT,Sneha,2024-06-06,2024-06-16,2024-06-20,,Offer Declined,353231.0
+C211,Rohit Kale,Male,32,LinkedIn,Data Analyst,Analytics,Sneha,2024-04-15,2024-04-22,,,Rejected,
+C212,Pooja Deshmukh,Male,22,LinkedIn,Sales Executive,Sales,Pallavi,2024-05-02,2024-05-12,2024-05-17,2024-06-05,Joined,636768.0
+C213,Rohit Kale,Male,34,Naukri,Manager,Management,Amit,2024-05-16,2024-05-26,,,Rejected,
+C214,Vikas Chavan,Male,24,Referral,Software Engineer,IT,Sneha,2024-04-11,2024-04-19,2024-04-24,2024-05-04,Joined,339286.0
+C215,Saurabh More,Male,27,Indeed,Sales Executive,Sales,Pallavi,2024-02-04,2024-02-13,2024-02-17,,Offer Accepted,1148102.0
+C216,Pooja Deshmukh,Female,24,Referral,HR Executive,HR,Amit,2024-01-04,2024-01-14,2024-01-19,2024-02-04,Joined,895361.0
+C217,Akash Kulkarni,Female,35,Referral,Manager,Management,Rohit,2024-01-23,2024-01-31,2024-02-04,,Offer Declined,447442.0
+C218,Sayali Patil,Female,25,Naukri,HR Executive,HR,Pallavi,2024-03-01,2024-03-09,,,Rejected,
+C219,Komal Shinde,Female,31,Naukri,HR Executive,HR,Rohit,2024-06-26,2024-07-02,2024-07-05,2024-07-24,Joined,788002.0
+C220,Akash Kulkarni,Female,32,Indeed,Data Analyst,Analytics,Rohit,2024-04-04,2024-04-13,2024-04-17,2024-05-01,Joined,801410.0
+C221,Sayali Patil,Female,28,Referral,Manager,Management,Amit,2024-03-04,2024-03-14,,,Rejected,
+C222,Aarti Kulkarni,Male,30,Referral,Manager,Management,Rohit,2024-01-20,2024-01-29,2024-02-05,2024-02-21,Joined,830041.0
+C223,Shweta Kulkarni,Male,24,Indeed,Manager,Management,Pallavi,2024-01-30,2024-02-09,2024-02-16,2024-02-28,Joined,812573.0
+C224,Vikas Chavan,Female,34,Naukri,Sales Executive,Sales,Amit,2024-05-11,2024-05-19,2024-05-22,,Offer Accepted,885941.0
+C225,Sayali Patil,Female,33,Naukri,Sales Executive,Sales,Rohit,2024-01-01,2024-01-11,2024-01-14,2024-02-06,Joined,347489.0
+C226,Komal Shinde,Male,30,Naukri,Data Analyst,Analytics,Pallavi,2024-01-09,2024-01-16,2024-01-20,,Offer Accepted,1103028.0
+C227,Rohit Kale,Female,27,Referral,Sales Executive,Sales,Pallavi,2024-04-06,2024-04-11,2024-04-18,,Offer Declined,439449.0
+C228,Rohit Kale,Female,23,LinkedIn,Manager,Management,Pallavi,2024-05-15,2024-05-21,,,Rejected,
+C229,Neha Joshi,Male,34,Naukri,HR Executive,HR,Pallavi,2024-06-21,2024-07-01,2024-07-08,,Offer Declined,697700.0
+C230,Aarti Kulkarni,Male,25,Referral,HR Executive,HR,Amit,2024-03-11,2024-03-17,,,Rejected,
+C231,Snehal Patil,Male,22,Referral,Manager,Management,Sneha,2024-03-02,2024-03-08,2024-03-15,2024-04-08,Joined,335207.0
+C232,Shweta Kulkarni,Male,25,Naukri,Sales Executive,Sales,Pallavi,2024-02-29,2024-03-09,2024-03-12,2024-04-07,Joined,446942.0
+C233,Saurabh More,Male,35,Indeed,Manager,Management,Rohit,2024-03-01,2024-03-08,,,Rejected,
+C234,Rohit Kale,Male,28,Indeed,HR Executive,HR,Sneha,2024-05-22,2024-05-31,,,Rejected,
+C235,Vikas Chavan,Male,32,Referral,Manager,Management,Pallavi,2024-01-13,2024-01-20,,,Rejected,
+C236,Rohit Kale,Female,34,Indeed,Sales Executive,Sales,Pallavi,2024-02-08,2024-02-15,2024-02-22,,Offer Accepted,796520.0
+C237,Neha Joshi,Male,26,LinkedIn,Sales Executive,Sales,Sneha,2024-05-23,2024-05-31,,,Rejected,
+C238,Amol Pawar,Male,28,LinkedIn,HR Executive,HR,Amit,2024-03-25,2024-04-04,2024-04-10,2024-05-01,Joined,1188283.0
+C239,Pooja Deshmukh,Male,22,Indeed,Sales Executive,Sales,Sneha,2024-01-19,2024-01-25,,,Rejected,
+C240,Shweta Kulkarni,Male,29,LinkedIn,HR Executive,HR,Rohit,2024-01-04,2024-01-10,,,Rejected,
+C241,Snehal Patil,Male,33,Referral,Software Engineer,IT,Amit,2024-04-11,2024-04-17,2024-04-22,,Offer Declined,699152.0
+C242,Sayali Patil,Female,26,Indeed,HR Executive,HR,Pallavi,2024-04-29,2024-05-04,,,Rejected,
+C243,Snehal Patil,Female,34,Indeed,Software Engineer,IT,Rohit,2024-03-21,2024-03-29,2024-04-02,2024-04-16,Joined,1077259.0
+C244,Rahul Patil,Female,30,Referral,HR Executive,HR,Amit,2024-02-20,2024-02-27,2024-03-05,2024-03-22,Joined,1173844.0
+C245,Sayali Patil,Female,26,Referral,Sales Executive,Sales,Pallavi,2024-02-13,2024-02-23,,,Rejected,
+C246,Akash Kulkarni,Male,33,Referral,Software Engineer,IT,Sneha,2024-05-14,2024-05-19,,,Rejected,
+C247,Pooja Deshmukh,Male,34,Naukri,Sales Executive,Sales,Amit,2024-06-10,2024-06-16,2024-06-20,2024-07-06,Joined,309585.0
+C248,Amol Pawar,Female,27,Naukri,Manager,Management,Pallavi,2024-06-17,2024-06-25,2024-07-02,2024-07-25,Joined,878440.0
+C249,Rahul Patil,Male,30,Indeed,Manager,Management,Rohit,2024-01-05,2024-01-14,,,Rejected,
+C250,Rohit Kale,Female,34,LinkedIn,Data Analyst,Analytics,Sneha,2024-05-14,2024-05-20,2024-05-27,2024-06-14,Joined,852029.0
+C251,Aarti Kulkarni,Female,26,Referral,Data Analyst,Analytics,Rohit,2024-04-13,2024-04-21,2024-04-25,,Offer Declined,614546.0
+C252,Rohit Kale,Male,32,Naukri,Data Analyst,Analytics,Pallavi,2024-04-07,2024-04-15,2024-04-18,,Offer Declined,967678.0
+C253,Rahul Patil,Male,23,Referral,Sales Executive,Sales,Rohit,2024-05-24,2024-05-29,,,Rejected,
+C254,Vikas Chavan,Male,25,LinkedIn,Manager,Management,Pallavi,2024-03-10,2024-03-15,,,Rejected,
+C255,Rohit Kale,Female,30,Naukri,Software Engineer,IT,Rohit,2024-01-05,2024-01-11,2024-01-17,,Offer Declined,380674.0
+C256,Saurabh More,Male,31,LinkedIn,Manager,Management,Pallavi,2024-06-22,2024-07-01,2024-07-05,2024-07-17,Joined,1128897.0
+C257,Amol Pawar,Female,22,Naukri,Sales Executive,Sales,Amit,2024-01-20,2024-01-27,2024-02-03,,Offer Declined,924540.0
+C258,Pratik Jadhav,Female,22,Indeed,Sales Executive,Sales,Pallavi,2024-02-28,2024-03-06,2024-03-12,,Offer Declined,752825.0
+C259,Akash Kulkarni,Female,23,Indeed,Software Engineer,IT,Sneha,2024-01-22,2024-01-29,2024-02-02,2024-02-24,Joined,1075584.0
+C260,Komal Shinde,Female,23,Naukri,Data Analyst,Analytics,Rohit,2024-04-23,2024-04-30,,,Rejected,
+C261,Pooja Deshmukh,Male,23,LinkedIn,Sales Executive,Sales,Pallavi,2024-05-22,2024-05-31,2024-06-03,,Offer Declined,327537.0
+C262,Pooja Deshmukh,Female,30,Naukri,Manager,Management,Rohit,2024-04-08,2024-04-13,2024-04-19,2024-05-01,Joined,1117018.0
+C263,Snehal Patil,Male,31,LinkedIn,Sales Executive,Sales,Amit,2024-02-05,2024-02-12,2024-02-18,2024-03-01,Joined,453023.0
+C264,Akash Kulkarni,Female,26,Referral,HR Executive,HR,Pallavi,2024-01-20,2024-01-27,2024-01-31,2024-03-01,Joined,1055917.0
+C265,Sayali Patil,Male,29,Naukri,Software Engineer,IT,Rohit,2024-01-02,2024-01-10,2024-01-17,2024-02-06,Joined,698343.0
+C266,Sayali Patil,Female,28,LinkedIn,HR Executive,HR,Rohit,2024-06-03,2024-06-13,2024-06-18,2024-07-10,Joined,486266.0
+C267,Komal Shinde,Female,33,Referral,Manager,Management,Amit,2024-03-24,2024-04-01,2024-04-07,2024-04-20,Joined,682746.0
+C268,Vikas Chavan,Male,31,LinkedIn,Manager,Management,Sneha,2024-04-28,2024-05-08,2024-05-13,2024-05-25,Joined,1171662.0
+C269,Aarti Kulkarni,Female,32,Referral,Software Engineer,IT,Rohit,2024-03-02,2024-03-09,2024-03-15,,Offer Declined,1127406.0
+C270,Pratik Jadhav,Male,29,Referral,Manager,Management,Pallavi,2024-05-16,2024-05-25,,,Rejected,
+C271,Aarti Kulkarni,Female,30,Naukri,HR Executive,HR,Sneha,2024-01-28,2024-02-03,2024-02-08,,Offer Declined,474418.0
+C272,Rohit Kale,Male,31,Referral,HR Executive,HR,Pallavi,2024-01-28,2024-02-02,2024-02-06,2024-03-03,Joined,835482.0
+C273,Amol Pawar,Male,29,Indeed,Sales Executive,Sales,Pallavi,2024-06-22,2024-07-01,2024-07-05,,Offer Declined,661724.0
+C274,Rahul Patil,Female,23,Indeed,Sales Executive,Sales,Sneha,2024-01-30,2024-02-09,2024-02-14,2024-03-09,Joined,659731.0
+C275,Kunal Desai,Male,30,Referral,HR Executive,HR,Pallavi,2024-01-25,2024-02-02,,,Rejected,
+C276,Sayali Patil,Female,23,Indeed,Data Analyst,Analytics,Sneha,2024-01-06,2024-01-13,2024-01-17,,Offer Declined,1076459.0
+C277,Neha Joshi,Male,30,LinkedIn,HR Executive,HR,Pallavi,2024-04-28,2024-05-04,,,Rejected,
+C278,Rohit Kale,Male,24,Referral,Sales Executive,Sales,Sneha,2024-06-06,2024-06-12,2024-06-18,,Offer Accepted,707723.0
+C279,Rahul Patil,Male,25,Indeed,Data Analyst,Analytics,Sneha,2024-05-17,2024-05-23,2024-05-27,,Offer Accepted,779776.0
+C280,Pooja Deshmukh,Female,32,Referral,Manager,Management,Rohit,2024-06-01,2024-06-09,2024-06-16,,Offer Declined,419781.0
+C281,Komal Shinde,Female,35,Referral,Manager,Management,Amit,2024-06-21,2024-07-01,,,Rejected,
+C282,Vikas Chavan,Male,32,LinkedIn,HR Executive,HR,Sneha,2024-03-02,2024-03-09,2024-03-14,2024-03-28,Joined,1027120.0
+C283,Amol Pawar,Female,28,LinkedIn,Manager,Management,Pallavi,2024-04-18,2024-04-24,2024-05-01,,Offer Accepted,1027117.0
+C284,Vikas Chavan,Male,30,LinkedIn,Sales Executive,Sales,Rohit,2024-02-05,2024-02-11,2024-02-17,2024-02-28,Joined,949498.0
+C285,Aarti Kulkarni,Female,22,Referral,Software Engineer,IT,Amit,2024-04-08,2024-04-17,2024-04-23,,Offer Declined,729008.0
+C286,Rohit Kale,Female,28,Referral,Sales Executive,Sales,Amit,2024-01-22,2024-01-31,2024-02-04,2024-02-15,Joined,606278.0
+C287,Saurabh More,Male,30,Indeed,Software Engineer,IT,Pallavi,2024-05-24,2024-06-03,,,Rejected,
+C288,Sayali Patil,Male,31,Naukri,HR Executive,HR,Rohit,2024-05-18,2024-05-23,,,Rejected,
+C289,Sayali Patil,Male,28,Naukri,Software Engineer,IT,Rohit,2024-01-09,2024-01-17,2024-01-20,2024-02-02,Joined,760398.0
+C290,Kunal Desai,Male,25,Indeed,Manager,Management,Pallavi,2024-02-12,2024-02-21,2024-02-25,2024-03-12,Joined,1153047.0
+C291,Kunal Desai,Male,31,Indeed,Manager,Management,Rohit,2024-06-01,2024-06-10,2024-06-15,2024-07-13,Joined,603387.0
+C292,Saurabh More,Male,24,Referral,Data Analyst,Analytics,Rohit,2024-06-16,2024-06-22,,,Rejected,
+C293,Akash Kulkarni,Male,24,Indeed,Software Engineer,IT,Pallavi,2024-05-05,2024-05-11,2024-05-16,,Offer Declined,958309.0
+C294,Pratik Jadhav,Female,29,Naukri,Data Analyst,Analytics,Pallavi,2024-05-11,2024-05-21,2024-05-26,2024-06-20,Joined,776782.0
+C295,Komal Shinde,Male,35,Naukri,Sales Executive,Sales,Rohit,2024-01-17,2024-01-26,2024-02-01,,Offer Accepted,1164915.0
+C296,Neha Joshi,Female,26,Indeed,HR Executive,HR,Rohit,2024-05-20,2024-05-29,2024-06-04,2024-06-24,Joined,1126596.0
+C297,Vikas Chavan,Male,22,Naukri,Sales Executive,Sales,Sneha,2024-02-01,2024-02-07,2024-02-10,,Offer Accepted,748580.0
+C298,Neha Joshi,Male,32,Indeed,Software Engineer,IT,Rohit,2024-01-24,2024-02-03,2024-02-06,,Offer Accepted,689906.0
+C299,Rohit Kale,Male,22,Referral,HR Executive,HR,Amit,2024-04-19,2024-04-29,2024-05-02,2024-05-18,Joined,301139.0
+C300,Sayali Patil,Male,24,LinkedIn,Manager,Management,Pallavi,2024-01-03,2024-01-08,2024-01-11,,Offer Declined,742828.0
+C301,Snehal Patil,Male,29,Naukri,Software Engineer,IT,Pallavi,2024-01-23,2024-02-02,,,Rejected,
+C302,Pooja Deshmukh,Female,27,Indeed,Software Engineer,IT,Pallavi,2024-02-04,2024-02-14,,,Rejected,
+C303,Akash Kulkarni,Male,30,Naukri,Manager,Management,Amit,2024-04-22,2024-04-29,,,Rejected,
+C304,Rohit Kale,Male,28,Referral,Software Engineer,IT,Sneha,2024-01-26,2024-02-01,,,Rejected,
+C305,Shweta Kulkarni,Female,27,Referral,HR Executive,HR,Amit,2024-03-04,2024-03-11,2024-03-15,,Offer Declined,880278.0
+C306,Shweta Kulkarni,Female,34,Naukri,HR Executive,HR,Amit,2024-05-12,2024-05-21,2024-05-27,,Offer Declined,609898.0
+C307,Rohit Kale,Male,34,LinkedIn,Sales Executive,Sales,Pallavi,2024-01-29,2024-02-04,2024-02-11,,Offer Accepted,374461.0
+C308,Amol Pawar,Male,27,Indeed,Software Engineer,IT,Pallavi,2024-05-25,2024-06-02,2024-06-06,,Offer Accepted,1099776.0
+C309,Sayali Patil,Male,22,Naukri,Data Analyst,Analytics,Rohit,2024-02-25,2024-03-01,,,Rejected,
+C310,Kunal Desai,Female,30,Indeed,Manager,Management,Pallavi,2024-04-18,2024-04-28,2024-05-05,,Offer Accepted,863772.0
+C311,Shweta Kulkarni,Male,26,Naukri,HR Executive,HR,Sneha,2024-05-10,2024-05-16,,,Rejected,
+C312,Akash Kulkarni,Female,28,Naukri,HR Executive,HR,Pallavi,2024-03-02,2024-03-07,2024-03-13,2024-04-06,Joined,421620.0
+C313,Shweta Kulkarni,Male,26,LinkedIn,Data Analyst,Analytics,Sneha,2024-02-05,2024-02-15,2024-02-21,2024-03-18,Joined,663546.0
+C314,Amol Pawar,Female,24,Indeed,Software Engineer,IT,Rohit,2024-01-31,2024-02-05,2024-02-11,2024-03-08,Joined,585192.0
+C315,Pooja Deshmukh,Female,33,Naukri,Sales Executive,Sales,Pallavi,2024-05-10,2024-05-17,2024-05-24,2024-06-14,Joined,474987.0
+C316,Akash Kulkarni,Female,34,Naukri,Manager,Management,Sneha,2024-02-28,2024-03-09,2024-03-12,,Offer Declined,312884.0
+C317,Neha Joshi,Male,29,Indeed,Sales Executive,Sales,Amit,2024-02-15,2024-02-20,2024-02-26,,Offer Declined,535421.0
+C318,Komal Shinde,Male,28,Indeed,HR Executive,HR,Sneha,2024-05-26,2024-06-02,2024-06-05,2024-06-22,Joined,488056.0
+C319,Kunal Desai,Male,28,Naukri,Sales Executive,Sales,Rohit,2024-03-20,2024-03-27,2024-04-02,2024-04-23,Joined,308356.0
+C320,Neha Joshi,Female,31,Indeed,Manager,Management,Amit,2024-04-28,2024-05-05,2024-05-11,,Offer Declined,1110143.0
+C321,Kunal Desai,Male,33,LinkedIn,Software Engineer,IT,Sneha,2024-04-14,2024-04-19,2024-04-24,2024-05-04,Joined,966833.0
+C322,Komal Shinde,Male,34,Referral,HR Executive,HR,Sneha,2024-02-22,2024-03-02,,,Rejected,
+C323,Pratik Jadhav,Female,22,LinkedIn,HR Executive,HR,Sneha,2024-01-12,2024-01-18,,,Rejected,
+C324,Amol Pawar,Female,33,Indeed,Sales Executive,Sales,Sneha,2024-05-28,2024-06-02,2024-06-08,,Offer Declined,378465.0
+C325,Shweta Kulkarni,Male,28,LinkedIn,Software Engineer,IT,Rohit,2024-03-07,2024-03-14,,,Rejected,
+C326,Pratik Jadhav,Female,27,Referral,HR Executive,HR,Amit,2024-01-20,2024-01-26,2024-02-02,2024-02-16,Joined,414266.0
+C327,Pooja Deshmukh,Male,29,Referral,HR Executive,HR,Pallavi,2024-01-31,2024-02-09,2024-02-13,,Offer Accepted,773869.0
+C328,Saurabh More,Female,26,Naukri,Data Analyst,Analytics,Amit,2024-06-24,2024-07-01,,,Rejected,
+C329,Snehal Patil,Male,25,Indeed,Software Engineer,IT,Sneha,2024-03-04,2024-03-11,2024-03-14,,Offer Accepted,1010078.0
+C330,Saurabh More,Female,35,LinkedIn,Data Analyst,Analytics,Pallavi,2024-04-25,2024-05-04,,,Rejected,
+C331,Neha Joshi,Male,29,Naukri,Software Engineer,IT,Sneha,2024-01-04,2024-01-09,,,Rejected,
+C332,Neha Joshi,Male,25,Referral,HR Executive,HR,Sneha,2024-05-29,2024-06-07,2024-06-10,2024-06-22,Joined,322859.0
+C333,Neha Joshi,Female,34,LinkedIn,Data Analyst,Analytics,Rohit,2024-02-01,2024-02-06,,,Rejected,
+C334,Rahul Patil,Male,31,Referral,Sales Executive,Sales,Pallavi,2024-01-08,2024-01-16,2024-01-20,,Offer Declined,671136.0
+C335,Neha Joshi,Male,26,Indeed,Sales Executive,Sales,Amit,2024-01-09,2024-01-18,2024-01-22,,Offer Declined,978720.0
+C336,Saurabh More,Female,28,Referral,Data Analyst,Analytics,Sneha,2024-03-12,2024-03-20,2024-03-24,2024-04-19,Joined,973870.0
+C337,Neha Joshi,Male,28,Indeed,Sales Executive,Sales,Pallavi,2024-03-29,2024-04-07,2024-04-13,,Offer Declined,583572.0
+C338,Akash Kulkarni,Male,27,LinkedIn,Data Analyst,Analytics,Rohit,2024-01-15,2024-01-23,2024-01-30,,Offer Declined,544068.0
+C339,Akash Kulkarni,Male,25,LinkedIn,HR Executive,HR,Sneha,2024-02-26,2024-03-06,,,Rejected,
+C340,Kunal Desai,Female,27,LinkedIn,Software Engineer,IT,Amit,2024-05-31,2024-06-07,,,Rejected,
+C341,Snehal Patil,Female,31,Naukri,HR Executive,HR,Amit,2024-05-24,2024-05-30,,,Rejected,
+C342,Kunal Desai,Female,30,Indeed,Software Engineer,IT,Pallavi,2024-01-10,2024-01-15,2024-01-22,2024-02-01,Joined,529437.0
+C343,Amol Pawar,Female,22,Indeed,Manager,Management,Amit,2024-02-03,2024-02-10,,,Rejected,
+C344,Vikas Chavan,Female,22,Naukri,Software Engineer,IT,Amit,2024-01-29,2024-02-07,,,Rejected,
+C345,Pooja Deshmukh,Female,33,Referral,Manager,Management,Sneha,2024-03-27,2024-04-03,2024-04-07,2024-04-30,Joined,1067926.0
+C346,Kunal Desai,Female,32,Indeed,Software Engineer,IT,Rohit,2024-02-27,2024-03-08,2024-03-12,,Offer Declined,696764.0
+C347,Saurabh More,Female,24,LinkedIn,Data Analyst,Analytics,Pallavi,2024-05-25,2024-05-30,2024-06-04,2024-07-03,Joined,1148095.0
+C348,Neha Joshi,Male,29,LinkedIn,HR Executive,HR,Sneha,2024-03-01,2024-03-08,,,Rejected,
+C349,Akash Kulkarni,Male,35,Indeed,Sales Executive,Sales,Sneha,2024-03-08,2024-03-14,2024-03-17,2024-04-04,Joined,667506.0
+C350,Kunal Desai,Male,33,Naukri,Data Analyst,Analytics,Pallavi,2024-04-22,2024-05-02,2024-05-06,,Offer Accepted,734130.0
+C351,Sayali Patil,Female,27,Referral,Data Analyst,Analytics,Pallavi,2024-05-27,2024-06-06,,,Rejected,
+C352,Neha Joshi,Male,29,Naukri,Data Analyst,Analytics,Rohit,2024-01-06,2024-01-13,2024-01-16,2024-02-05,Joined,377804.0
+C353,Akash Kulkarni,Female,24,Naukri,Manager,Management,Sneha,2024-03-27,2024-04-05,,,Rejected,
+C354,Vikas Chavan,Female,33,Naukri,Sales Executive,Sales,Amit,2024-06-04,2024-06-12,2024-06-15,2024-07-01,Joined,647177.0
+C355,Neha Joshi,Female,33,Indeed,HR Executive,HR,Rohit,2024-03-01,2024-03-06,2024-03-13,2024-04-07,Joined,876363.0
+C356,Akash Kulkarni,Male,27,Naukri,Sales Executive,Sales,Sneha,2024-03-16,2024-03-26,2024-04-01,,Offer Declined,509374.0
+C357,Pooja Deshmukh,Male,25,LinkedIn,HR Executive,HR,Sneha,2024-05-01,2024-05-06,2024-05-12,2024-06-06,Joined,793821.0
+C358,Vikas Chavan,Female,23,Referral,Software Engineer,IT,Rohit,2024-04-07,2024-04-14,2024-04-17,2024-05-11,Joined,576085.0
+C359,Sayali Patil,Female,25,Indeed,Manager,Management,Sneha,2024-02-08,2024-02-18,2024-02-21,,Offer Declined,1000596.0
+C360,Komal Shinde,Female,34,LinkedIn,Manager,Management,Sneha,2024-04-09,2024-04-18,2024-04-25,,Offer Accepted,1020442.0
+C361,Aarti Kulkarni,Female,31,LinkedIn,Sales Executive,Sales,Rohit,2024-01-21,2024-01-29,,,Rejected,
+C362,Snehal Patil,Male,30,LinkedIn,Data Analyst,Analytics,Pallavi,2024-02-14,2024-02-20,,,Rejected,
+C363,Kunal Desai,Male,24,Naukri,Sales Executive,Sales,Sneha,2024-06-23,2024-07-01,2024-07-05,2024-08-03,Joined,1174625.0
+C364,Saurabh More,Female,33,Naukri,Data Analyst,Analytics,Pallavi,2024-05-22,2024-05-30,2024-06-04,,Offer Declined,844932.0
+C365,Sayali Patil,Male,34,Referral,Data Analyst,Analytics,Pallavi,2024-02-08,2024-02-14,2024-02-21,,Offer Declined,1095216.0
+C366,Pooja Deshmukh,Male,31,Naukri,HR Executive,HR,Rohit,2024-04-15,2024-04-22,2024-04-28,,Offer Accepted,899809.0
+C367,Shweta Kulkarni,Female,22,LinkedIn,HR Executive,HR,Pallavi,2024-02-06,2024-02-15,2024-02-21,,Offer Declined,340666.0
+C368,Pratik Jadhav,Female,33,LinkedIn,Data Analyst,Analytics,Pallavi,2024-03-09,2024-03-16,2024-03-21,2024-04-08,Joined,626053.0
+C369,Aarti Kulkarni,Female,35,Naukri,Software Engineer,IT,Amit,2024-03-17,2024-03-27,2024-04-01,,Offer Accepted,582507.0
+C370,Snehal Patil,Female,31,Naukri,Software Engineer,IT,Pallavi,2024-02-24,2024-03-03,,,Rejected,
+C371,Kunal Desai,Female,35,Naukri,Manager,Management,Amit,2024-01-17,2024-01-24,,,Rejected,
+C372,Pratik Jadhav,Male,34,Naukri,Software Engineer,IT,Amit,2024-02-21,2024-02-26,2024-03-03,2024-03-24,Joined,353015.0
+C373,Snehal Patil,Male,26,Indeed,Sales Executive,Sales,Pallavi,2024-06-11,2024-06-16,2024-06-20,,Offer Declined,690559.0
+C374,Sayali Patil,Female,24,Referral,Manager,Management,Rohit,2024-03-29,2024-04-04,,,Rejected,
+C375,Saurabh More,Male,26,Naukri,Sales Executive,Sales,Sneha,2024-02-11,2024-02-20,,,Rejected,
+C376,Neha Joshi,Male,32,LinkedIn,Software Engineer,IT,Rohit,2024-06-15,2024-06-23,2024-06-26,,Offer Declined,797126.0
+C377,Vikas Chavan,Male,32,LinkedIn,Manager,Management,Sneha,2024-02-27,2024-03-05,2024-03-10,,Offer Declined,1047362.0
+C378,Snehal Patil,Female,28,Referral,HR Executive,HR,Pallavi,2024-03-05,2024-03-11,2024-03-18,,Offer Accepted,1164352.0
+C379,Shweta Kulkarni,Female,31,Naukri,Data Analyst,Analytics,Rohit,2024-05-23,2024-06-02,2024-06-07,,Offer Declined,612974.0
+C380,Rohit Kale,Male,29,Naukri,HR Executive,HR,Rohit,2024-06-12,2024-06-19,,,Rejected,
+C381,Saurabh More,Female,25,LinkedIn,Manager,Management,Amit,2024-01-15,2024-01-24,2024-01-29,,Offer Accepted,1013824.0
+C382,Akash Kulkarni,Male,32,Referral,HR Executive,HR,Rohit,2024-04-17,2024-04-25,2024-04-28,,Offer Accepted,911344.0
+C383,Snehal Patil,Male,27,LinkedIn,Manager,Management,Pallavi,2024-06-20,2024-06-27,2024-07-01,,Offer Declined,1181473.0
+C384,Rohit Kale,Male,26,Naukri,Sales Executive,Sales,Amit,2024-03-07,2024-03-17,,,Rejected,
+C385,Kunal Desai,Male,32,Indeed,Data Analyst,Analytics,Amit,2024-03-31,2024-04-06,,,Rejected,
+C386,Saurabh More,Female,34,Indeed,HR Executive,HR,Rohit,2024-05-29,2024-06-05,2024-06-08,,Offer Accepted,793393.0
+C387,Rahul Patil,Male,29,LinkedIn,Manager,Management,Sneha,2024-06-23,2024-07-01,2024-07-07,,Offer Declined,356688.0
+C388,Aarti Kulkarni,Male,24,LinkedIn,HR Executive,HR,Pallavi,2024-05-25,2024-06-02,2024-06-06,2024-06-18,Joined,1116779.0
+C389,Sayali Patil,Female,32,LinkedIn,HR Executive,HR,Sneha,2024-01-02,2024-01-10,2024-01-14,2024-01-29,Joined,904272.0
+C390,Sayali Patil,Male,24,Referral,Sales Executive,Sales,Pallavi,2024-04-19,2024-04-27,2024-04-30,,Offer Accepted,859711.0
+C391,Neha Joshi,Female,22,Indeed,Manager,Management,Amit,2024-01-05,2024-01-15,2024-01-19,2024-02-09,Joined,537256.0
+C392,Saurabh More,Male,23,Referral,Manager,Management,Rohit,2024-02-12,2024-02-17,,,Rejected,
+C393,Saurabh More,Female,29,Indeed,Sales Executive,Sales,Amit,2024-03-28,2024-04-05,2024-04-09,,Offer Accepted,472892.0
+C394,Vikas Chavan,Female,22,LinkedIn,Software Engineer,IT,Amit,2024-02-24,2024-03-05,2024-03-12,2024-03-25,Joined,477193.0
+C395,Komal Shinde,Male,28,Indeed,Manager,Management,Sneha,2024-06-01,2024-06-06,2024-06-09,,Offer Declined,350578.0
+C396,Snehal Patil,Male,28,Referral,Sales Executive,Sales,Sneha,2024-05-20,2024-05-27,2024-05-31,,Offer Accepted,515477.0
+C397,Snehal Patil,Male,26,Referral,Data Analyst,Analytics,Rohit,2024-06-08,2024-06-17,,,Rejected,
+C398,Pratik Jadhav,Male,30,Naukri,HR Executive,HR,Sneha,2024-01-28,2024-02-05,2024-02-09,2024-02-27,Joined,1115749.0
+C399,Aarti Kulkarni,Male,27,Referral,HR Executive,HR,Amit,2024-01-11,2024-01-20,2024-01-24,,Offer Accepted,1021634.0
+C400,Vikas Chavan,Female,27,LinkedIn,Data Analyst,Analytics,Sneha,2024-06-20,2024-06-25,,,Rejected,
+C401,Aarti Kulkarni,Female,24,Naukri,Manager,Management,Sneha,2024-01-26,2024-02-02,2024-02-08,,Offer Declined,610401.0
+C402,Saurabh More,Female,22,Naukri,Software Engineer,IT,Sneha,2024-03-15,2024-03-22,,,Rejected,
+C403,Komal Shinde,Female,33,Naukri,Data Analyst,Analytics,Sneha,2024-01-03,2024-01-09,2024-01-13,,Offer Declined,644625.0
+C404,Komal Shinde,Female,31,Indeed,Data Analyst,Analytics,Rohit,2024-03-28,2024-04-03,2024-04-09,2024-04-27,Joined,778715.0
+C405,Aarti Kulkarni,Female,33,Referral,Sales Executive,Sales,Amit,2024-01-29,2024-02-04,2024-02-07,,Offer Declined,1185364.0
+C406,Akash Kulkarni,Male,28,Referral,Manager,Management,Pallavi,2024-02-16,2024-02-25,2024-03-01,,Offer Accepted,941055.0
+C407,Rahul Patil,Male,29,Referral,Data Analyst,Analytics,Pallavi,2024-04-22,2024-04-27,2024-05-02,2024-05-28,Joined,312960.0
+C408,Kunal Desai,Male,32,Indeed,Manager,Management,Sneha,2024-04-20,2024-04-30,,,Rejected,
+C409,Sayali Patil,Female,32,Referral,Software Engineer,IT,Sneha,2024-01-03,2024-01-13,,,Rejected,
+C410,Amol Pawar,Female,35,Referral,Software Engineer,IT,Sneha,2024-05-05,2024-05-12,2024-05-17,2024-06-12,Joined,352796.0
+C411,Neha Joshi,Female,28,LinkedIn,Data Analyst,Analytics,Pallavi,2024-04-23,2024-05-02,2024-05-08,,Offer Accepted,768784.0
+C412,Komal Shinde,Male,29,Naukri,Data Analyst,Analytics,Pallavi,2024-04-15,2024-04-20,2024-04-23,,Offer Declined,1166028.0
+C413,Pooja Deshmukh,Female,30,LinkedIn,Sales Executive,Sales,Rohit,2024-04-03,2024-04-08,,,Rejected,
+C414,Aarti Kulkarni,Female,27,Referral,HR Executive,HR,Pallavi,2024-01-30,2024-02-04,,,Rejected,
+C415,Neha Joshi,Male,27,Indeed,HR Executive,HR,Rohit,2024-06-28,2024-07-03,2024-07-07,2024-07-21,Joined,816342.0
+C416,Aarti Kulkarni,Female,23,Indeed,Manager,Management,Amit,2024-02-18,2024-02-23,,,Rejected,
+C417,Pratik Jadhav,Male,29,LinkedIn,HR Executive,HR,Sneha,2024-04-16,2024-04-21,,,Rejected,
+C418,Aarti Kulkarni,Male,34,Referral,Sales Executive,Sales,Amit,2024-05-07,2024-05-12,2024-05-15,,Offer Declined,880099.0
+C419,Vikas Chavan,Female,35,Referral,Manager,Management,Amit,2024-06-26,2024-07-05,2024-07-09,2024-07-31,Joined,408584.0
+C420,Rohit Kale,Female,30,Referral,Sales Executive,Sales,Amit,2024-03-11,2024-03-19,,,Rejected,
+C421,Saurabh More,Female,34,LinkedIn,Software Engineer,IT,Pallavi,2024-06-03,2024-06-13,,,Rejected,
+C422,Amol Pawar,Female,35,Indeed,Manager,Management,Amit,2024-02-21,2024-02-27,2024-03-03,,Offer Declined,1019964.0
+C423,Komal Shinde,Male,33,LinkedIn,Manager,Management,Rohit,2024-01-30,2024-02-06,2024-02-13,,Offer Declined,898357.0
+C424,Rohit Kale,Female,32,Indeed,Sales Executive,Sales,Sneha,2024-05-13,2024-05-18,2024-05-22,2024-06-02,Joined,355642.0
+C425,Neha Joshi,Female,34,LinkedIn,HR Executive,HR,Rohit,2024-02-07,2024-02-12,2024-02-17,,Offer Declined,513910.0
+C426,Kunal Desai,Male,27,Referral,Data Analyst,Analytics,Amit,2024-06-14,2024-06-23,2024-06-30,,Offer Accepted,1122405.0
+C427,Kunal Desai,Female,33,Naukri,Sales Executive,Sales,Pallavi,2024-04-16,2024-04-26,2024-05-03,2024-05-13,Joined,356415.0
+C428,Snehal Patil,Female,25,Referral,Software Engineer,IT,Rohit,2024-05-30,2024-06-08,,,Rejected,
+C429,Neha Joshi,Male,26,Referral,Software Engineer,IT,Sneha,2024-02-17,2024-02-23,,,Rejected,
+C430,Pooja Deshmukh,Female,22,Referral,HR Executive,HR,Rohit,2024-02-03,2024-02-09,2024-02-14,,Offer Declined,305919.0
+C431,Komal Shinde,Female,33,LinkedIn,Data Analyst,Analytics,Amit,2024-03-23,2024-04-01,2024-04-08,2024-04-27,Joined,1184096.0
+C432,Sayali Patil,Female,23,Indeed,Manager,Management,Amit,2024-02-17,2024-02-26,2024-03-04,2024-03-27,Joined,467112.0
+C433,Amol Pawar,Female,23,Indeed,Software Engineer,IT,Amit,2024-06-18,2024-06-25,2024-06-30,2024-07-29,Joined,529056.0
+C434,Amol Pawar,Female,30,Naukri,Data Analyst,Analytics,Rohit,2024-04-24,2024-04-30,,,Rejected,
+C435,Shweta Kulkarni,Male,22,Indeed,Sales Executive,Sales,Sneha,2024-04-08,2024-04-15,2024-04-20,,Offer Declined,325905.0
+C436,Vikas Chavan,Female,30,Referral,Sales Executive,Sales,Sneha,2024-03-16,2024-03-26,2024-04-02,2024-04-15,Joined,386345.0
+C437,Akash Kulkarni,Male,32,Naukri,Software Engineer,IT,Amit,2024-06-24,2024-07-02,,,Rejected,
+C438,Neha Joshi,Female,32,Naukri,Software Engineer,IT,Sneha,2024-04-27,2024-05-07,2024-05-10,2024-05-21,Joined,376806.0
+C439,Akash Kulkarni,Female,30,Naukri,Manager,Management,Amit,2024-03-07,2024-03-15,2024-03-21,,Offer Accepted,754059.0
+C440,Komal Shinde,Male,28,Naukri,Manager,Management,Sneha,2024-06-13,2024-06-23,2024-06-30,,Offer Declined,347727.0
+C441,Snehal Patil,Male,27,Naukri,HR Executive,HR,Rohit,2024-06-04,2024-06-09,2024-06-15,2024-07-07,Joined,699941.0
+C442,Aarti Kulkarni,Male,29,LinkedIn,Manager,Management,Amit,2024-02-04,2024-02-14,2024-02-21,,Offer Accepted,609307.0
+C443,Rohit Kale,Male,26,Indeed,Data Analyst,Analytics,Amit,2024-02-01,2024-02-06,2024-02-13,2024-03-11,Joined,713224.0
+C444,Amol Pawar,Male,26,LinkedIn,HR Executive,HR,Amit,2024-04-15,2024-04-25,,,Rejected,
+C445,Akash Kulkarni,Male,24,LinkedIn,Manager,Management,Rohit,2024-02-19,2024-02-24,2024-03-02,2024-03-13,Joined,1193650.0
+C446,Aarti Kulkarni,Female,32,Naukri,HR Executive,HR,Sneha,2024-03-05,2024-03-10,2024-03-17,2024-04-06,Joined,810856.0
+C447,Komal Shinde,Male,32,LinkedIn,Data Analyst,Analytics,Rohit,2024-06-07,2024-06-12,,,Rejected,
+C448,Komal Shinde,Female,29,Indeed,Manager,Management,Rohit,2024-06-26,2024-07-05,2024-07-12,2024-08-01,Joined,682199.0
+C449,Pratik Jadhav,Male,22,Indeed,Software Engineer,IT,Amit,2024-06-13,2024-06-21,2024-06-26,2024-07-16,Joined,440829.0
+C450,Vikas Chavan,Female,29,Referral,HR Executive,HR,Rohit,2024-05-04,2024-05-13,2024-05-20,2024-06-07,Joined,385955.0
+C451,Aarti Kulkarni,Male,30,LinkedIn,HR Executive,HR,Sneha,2024-01-20,2024-01-25,,,Rejected,
+C452,Rohit Kale,Male,35,Referral,Manager,Management,Amit,2024-01-10,2024-01-19,2024-01-26,2024-02-25,Joined,795036.0
+C453,Kunal Desai,Male,27,Referral,Software Engineer,IT,Rohit,2024-02-04,2024-02-12,2024-02-15,,Offer Declined,716059.0
+C454,Komal Shinde,Male,32,LinkedIn,Manager,Management,Amit,2024-05-11,2024-05-17,2024-05-21,,Offer Accepted,893868.0
+C455,Shweta Kulkarni,Male,33,Referral,HR Executive,HR,Sneha,2024-02-26,2024-03-05,2024-03-10,2024-03-27,Joined,687380.0
+C456,Rahul Patil,Male,30,Indeed,Sales Executive,Sales,Pallavi,2024-04-26,2024-05-01,2024-05-06,2024-06-01,Joined,408239.0
+C457,Rohit Kale,Female,35,Indeed,Manager,Management,Amit,2024-04-06,2024-04-16,2024-04-23,,Offer Accepted,985073.0
+C458,Vikas Chavan,Male,30,Indeed,Sales Executive,Sales,Amit,2024-05-12,2024-05-20,2024-05-25,,Offer Accepted,810511.0
+C459,Kunal Desai,Female,31,Naukri,Manager,Management,Amit,2024-04-22,2024-04-28,2024-05-05,2024-05-23,Joined,974734.0
+C460,Neha Joshi,Male,24,LinkedIn,HR Executive,HR,Sneha,2024-06-18,2024-06-24,2024-06-29,,Offer Accepted,1055242.0
+C461,Pooja Deshmukh,Female,32,Referral,Sales Executive,Sales,Amit,2024-05-31,2024-06-06,2024-06-12,,Offer Declined,323536.0
+C462,Neha Joshi,Male,24,LinkedIn,Software Engineer,IT,Sneha,2024-05-26,2024-06-01,2024-06-06,2024-07-02,Joined,488783.0
+C463,Pratik Jadhav,Male,33,Indeed,Data Analyst,Analytics,Amit,2024-04-24,2024-05-03,,,Rejected,
+C464,Aarti Kulkarni,Female,24,LinkedIn,Sales Executive,Sales,Amit,2024-05-29,2024-06-04,2024-06-11,,Offer Declined,577370.0
+C465,Akash Kulkarni,Female,29,Naukri,Software Engineer,IT,Pallavi,2024-04-08,2024-04-14,2024-04-18,2024-05-14,Joined,848102.0
+C466,Rohit Kale,Female,35,LinkedIn,Manager,Management,Sneha,2024-02-15,2024-02-23,,,Rejected,
+C467,Shweta Kulkarni,Male,34,Naukri,Data Analyst,Analytics,Pallavi,2024-06-17,2024-06-23,,,Rejected,
+C468,Amol Pawar,Male,34,Referral,Manager,Management,Pallavi,2024-04-04,2024-04-09,2024-04-15,,Offer Declined,540633.0
+C469,Kunal Desai,Female,34,Referral,HR Executive,HR,Sneha,2024-04-18,2024-04-24,2024-04-28,2024-05-17,Joined,387889.0
+C470,Shweta Kulkarni,Female,26,LinkedIn,Data Analyst,Analytics,Sneha,2024-05-27,2024-06-05,2024-06-08,2024-07-08,Joined,693247.0
+C471,Neha Joshi,Female,28,Indeed,Data Analyst,Analytics,Amit,2024-04-19,2024-04-29,2024-05-04,,Offer Declined,1196508.0
+C472,Amol Pawar,Female,31,Indeed,Manager,Management,Rohit,2024-06-23,2024-07-01,,,Rejected,
+C473,Pratik Jadhav,Female,24,Indeed,Manager,Management,Pallavi,2024-03-05,2024-03-12,2024-03-18,,Offer Declined,1071523.0
+C474,Akash Kulkarni,Male,33,LinkedIn,Sales Executive,Sales,Amit,2024-01-26,2024-02-01,2024-02-06,,Offer Declined,1139756.0
+C475,Amol Pawar,Male,24,Referral,Data Analyst,Analytics,Sneha,2024-02-07,2024-02-15,,,Rejected,
+C476,Pratik Jadhav,Male,23,Indeed,Software Engineer,IT,Rohit,2024-01-21,2024-01-30,2024-02-05,2024-03-05,Joined,720106.0
+C477,Rohit Kale,Female,33,Naukri,Software Engineer,IT,Pallavi,2024-04-22,2024-04-27,2024-05-04,2024-05-20,Joined,599899.0
+C478,Rahul Patil,Male,31,LinkedIn,Data Analyst,Analytics,Rohit,2024-03-02,2024-03-12,2024-03-16,2024-04-03,Joined,391061.0
+C479,Kunal Desai,Female,27,Referral,Sales Executive,Sales,Amit,2024-05-12,2024-05-17,,,Rejected,
+C480,Pooja Deshmukh,Male,30,Indeed,Manager,Management,Rohit,2024-03-29,2024-04-05,2024-04-09,2024-05-01,Joined,776849.0
+C481,Shweta Kulkarni,Male,26,LinkedIn,Sales Executive,Sales,Sneha,2024-05-23,2024-05-28,2024-06-02,,Offer Declined,422692.0
+C482,Kunal Desai,Female,30,Indeed,Sales Executive,Sales,Pallavi,2024-05-24,2024-06-01,,,Rejected,
+C483,Kunal Desai,Female,34,Referral,Sales Executive,Sales,Sneha,2024-05-03,2024-05-08,2024-05-14,2024-05-31,Joined,964442.0
+C484,Rohit Kale,Male,34,Indeed,Sales Executive,Sales,Rohit,2024-05-12,2024-05-21,2024-05-26,2024-06-14,Joined,560316.0
+C485,Pooja Deshmukh,Female,32,Indeed,Data Analyst,Analytics,Amit,2024-05-01,2024-05-08,2024-05-15,,Offer Accepted,582146.0
+C486,Akash Kulkarni,Male,29,LinkedIn,Software Engineer,IT,Amit,2024-03-08,2024-03-14,2024-03-18,2024-04-16,Joined,1176960.0
+C487,Komal Shinde,Male,34,Naukri,Data Analyst,Analytics,Sneha,2024-06-22,2024-07-02,2024-07-05,,Offer Accepted,1101368.0
+C488,Aarti Kulkarni,Male,35,Referral,HR Executive,HR,Rohit,2024-05-06,2024-05-15,,,Rejected,
+C489,Sayali Patil,Male,34,Indeed,Sales Executive,Sales,Amit,2024-05-27,2024-06-02,2024-06-08,2024-07-05,Joined,801554.0
+C490,Rahul Patil,Female,28,LinkedIn,Sales Executive,Sales,Sneha,2024-06-27,2024-07-06,2024-07-09,,Offer Accepted,312394.0
+C491,Rohit Kale,Male,28,Naukri,HR Executive,HR,Rohit,2024-06-05,2024-06-12,2024-06-17,2024-07-05,Joined,548658.0
+C492,Sayali Patil,Female,27,LinkedIn,Sales Executive,Sales,Pallavi,2024-02-23,2024-03-02,,,Rejected,
+C493,Komal Shinde,Female,35,Referral,HR Executive,HR,Pallavi,2024-02-16,2024-02-25,2024-03-03,2024-03-20,Joined,1019335.0
+C494,Aarti Kulkarni,Male,33,Indeed,Software Engineer,IT,Pallavi,2024-04-07,2024-04-13,2024-04-17,2024-04-27,Joined,795962.0
+C495,Akash Kulkarni,Female,29,LinkedIn,Manager,Management,Rohit,2024-05-04,2024-05-11,2024-05-18,2024-06-09,Joined,350026.0
+C496,Pooja Deshmukh,Male,22,LinkedIn,HR Executive,HR,Pallavi,2024-06-10,2024-06-15,2024-06-20,,Offer Accepted,572387.0
+C497,Komal Shinde,Female,30,Indeed,HR Executive,HR,Sneha,2024-04-15,2024-04-20,2024-04-27,,Offer Accepted,508622.0
+C498,Shweta Kulkarni,Male,34,Indeed,HR Executive,HR,Rohit,2024-06-21,2024-06-30,2024-07-06,,Offer Accepted,382216.0
+C499,Pratik Jadhav,Female,29,LinkedIn,Software Engineer,IT,Rohit,2024-04-17,2024-04-27,2024-05-03,,Offer Declined,1190136.0
+C500,Vikas Chavan,Male,23,LinkedIn,HR Executive,HR,Amit,2024-03-21,2024-03-28,2024-04-02,,Offer Declined,934792.0
