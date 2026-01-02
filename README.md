@@ -32,3 +32,17 @@ This project focuses on analyzing recruitment and HR data to track key hiring me
 - Highlighted departments with longer hiring cycles
 - Improved recruitment visibility through dashboards
 
+  HR-Analytics-PowerBI
+│
+├── data
+│   └── recruitment_data.csv
+│
+├── sql
+│   └── recruitment_analysis.sql
+│
+├── screenshots
+│   └── dashboard.png
+│
+└── README.md
+
+
